@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  width: 450px;
+  height: 720px;
+  border-radius: 20px !important;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
